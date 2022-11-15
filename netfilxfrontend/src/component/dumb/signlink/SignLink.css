@@ -1,0 +1,10 @@
+.sign-link{
+    margin-left: 3px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+.sign-link:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

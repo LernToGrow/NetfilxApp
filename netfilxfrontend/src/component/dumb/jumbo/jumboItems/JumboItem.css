@@ -1,0 +1,10 @@
+.jumbo-item{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    padding: 70px 5%;
+    margin: auto;
+}
+.jumbo-image-wrapper{
+    padding-right: 20px;
+}

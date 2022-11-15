@@ -1,0 +1,22 @@
+.footer-section{
+    background-color: black;
+}
+.footer-wrapper{
+    max-width: 900px;
+    margin: auto;
+    padding-top: 50px;
+}
+.footer-wrapper-gird{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.footer-column{
+    display: flex;
+    flex-direction: column;
+}
+.fotter-text{
+    color: #757575;
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-top: auto;
+}
